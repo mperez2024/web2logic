@@ -1,6 +1,6 @@
 /* JavaScript Document
 
-MP-Tech - Your online vision. Made real
+Web2Logic - Your online vision. Made real
 
 */
 
